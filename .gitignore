@@ -7,3 +7,5 @@ node_modules
 annotated_source/
 
 
+#Build files
+[Bb]uild/
